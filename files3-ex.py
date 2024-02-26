@@ -6,4 +6,4 @@ with open("x-files.txt", "r") as f:
         num_alines += line.count("alien")
 
 #once i am oiut the file is closed
-print("the word alien  show up", num_alines,"times in the file")
+print("the word alien shows up", num_alines,"times in the file")
